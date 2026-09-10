@@ -3,6 +3,6 @@
   "version": "2.0.1",
   "revit": "2026",
   "status": "development",
-  "downloadUrl": "",
-  "notes": "Teste do sistema de atualização automática do HUGO BIM."
+  "downloadUrl": "https://github.com/hugovitolis/HUGO-BIM-Releases/releases/download/v2.0.1/HUGO-BIM-Setup-2.0.1.exe",
+  "notes": "Implementação inicial do sistema de atualização. Verificação de novas versões pelo HUGO BIM e melhorias na infraestrutura de versionamento."
 }
