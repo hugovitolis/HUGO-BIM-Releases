@@ -1,8 +1,8 @@
 {
   "product": "HUGO BIM",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "revit": "2026",
   "status": "development",
-  "downloadUrl": "https://github.com/hugovitolis/HUGO-BIM-Releases/releases/download/v2.0.2/HUGO-BIM-Setup-2.0.2.exe",
-  "notes": "Teste do sistema de atualização automática do HUGO BIM."
+  "downloadUrl": "https://github.com/hugovitolis/HUGO-BIM-Releases/releases/download/v2.0.3/HUGO-BIM-Setup-2.0.3.exe",
+  "notes": "Teste definitivo do atualizador automático externo do HUGO BIM."
 }
