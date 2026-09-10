@@ -1,8 +1,8 @@
 {
   "product": "HUGO BIM",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "revit": "2026",
   "status": "development",
   "downloadUrl": "",
-  "notes": "Versão inicial do sistema de atualização."
+  "notes": "Teste do sistema de atualização automática do HUGO BIM."
 }
